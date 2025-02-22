@@ -1,1 +1,1 @@
-# clinic-website-project
+# clinic_website
